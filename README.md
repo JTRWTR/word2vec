@@ -10,3 +10,5 @@ word2vecを用いた単語の類似度
 
 - gensim
   - word2vec
+- MeCab
+  - Owakati

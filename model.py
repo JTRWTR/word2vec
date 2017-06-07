@@ -1,6 +1,7 @@
 from xml.etree import ElementTree
 from gensim.models import word2vec
 import logging
+import MeCab
 
 # PLEASE DOWNLOAD jawiki-latest-pages-articles.xml.bz2 FROM THIS URL(https://dumps.wikimedia.org/jawiki/latest/)
 XMLFILE = "data/jawiki-latest-pages-articles.xml"
